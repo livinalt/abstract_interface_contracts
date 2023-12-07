@@ -1,4 +1,4 @@
-# Simple Solidity Calculator Smart Contract
+# Calculator Smart Contract
 
 ## Overview
 
